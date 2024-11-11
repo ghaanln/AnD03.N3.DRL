@@ -453,7 +453,7 @@
 											"top": 608,
 											"width": 141.21337890625,
 											"height": 13,
-											"text": "-ChứcBanCanSu: String",
+											"text": "-ChucBanCanSu: String",
 											"horizontalAlignment": 0
 										}
 									],
@@ -5575,7 +5575,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGS6zOS1oXwH60="
 							},
-							"name": "ChứcBanCanSu",
+							"name": "ChucBanCanSu",
 							"visibility": "private",
 							"type": "String"
 						}
